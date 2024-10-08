@@ -60,7 +60,7 @@ Several principal-level data analyst roles, like those at SmartAsset and Motiona
 
 Overall, the data highlights significant salary variation, with high pay associated with leadership, seniority, and remote flexibility.
 
-![Top Paying Roles](assets\1_top_paying_jobs.png)
+![Top Paying Roles](C:\Users\Sebastian\Downloads\sql_project_data_analysis\assets\1_top_paying_jobs.png)
 
 *Bar graph visualizing the salary for the top 10 Data Analyst positions; Chat gpt generated this graph from my SQL query results*
 
