@@ -60,7 +60,7 @@ Several principal-level data analyst roles, like those at SmartAsset and Motiona
 
 Overall, the data highlights significant salary variation, with high pay associated with leadership, seniority, and remote flexibility.
 
-![Top Paying Roles](assets\1_top_paying_jobs.png)
+![Top Paying Roles](assets/1_top_paying_jobs.png)
 
 *Bar graph visualizing the salary for the top 10 Data Analyst positions; Chat gpt generated this graph from my SQL query results*
 
@@ -91,7 +91,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY 
     salary_year_avg DESC
 ```
-![Top Paying Skills](assets\2_top_paying_job_skills.png)
+![Top Paying Skills](assets/2_top_paying_job_skills.png)
 
 *Bar graph visualizing the skill count for the top 10 paying data analyst roles*
 
@@ -114,7 +114,7 @@ ORDER BY
 LIMIT 5
 ```
 SQL is the most in demand skill, followed by Excel, Python, Tableau, and Power BI
-![In demand skills](assets\3.png)
+![In demand skills](assets/3.png)
 
 ### 4. Top Paying Data Analyst Jobs (Remote) ###
 This query calculates the average salary for each skill to identify which skills offer the highest pay
