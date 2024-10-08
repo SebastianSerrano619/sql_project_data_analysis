@@ -6,8 +6,6 @@ SQL queries? Check them out here: [project_sql folder](/project_sql/)
 # Background
 As someone new to the analytics market, navigating which skills to learn can be quite overwhelming. This project came to life as a method of identifying top-paid and in-demand skills
 
-The data used comes from []()
-
 ### The questions I wanted to answer through my SQL queries were: 
 
 1. What are the top paying dat analyst jobs?
