@@ -57,7 +57,6 @@ LIMIT 25;
 
 -- better v
 SELECT
-    skills_dim.skill_id,
     skills_dim.skills,
     COUNT(skills_job_dim.job_id) AS demand_count,
     ROUND(AVG(job_postings_fact.salary_year_avg),0) AS avg_salary
@@ -75,4 +74,5 @@ HAVING
 ORDER BY 
     avg_salary DESC,
     demand_count DESC
-LIMIT
+LIMIT 25;
+
